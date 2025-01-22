@@ -46,5 +46,5 @@ I'm Shixun. A software engineer with 2+ years of experience, specializing in ful
 ![](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=Terraform&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=FFFFFF)
 
-### 🖊️ Leetcode
+### Leetcode
 ![](https://leetcard.jacoblin.cool/RicardoOvO?ext=activity)
