@@ -42,8 +42,8 @@ A software engineer with 2+ years of experience in full-stack development. I'm p
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=Amazon+Web+Services&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/Microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=FFFFFF)
-![](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=Google+Cloud&logoColor=FFFFFF)
+![](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=Terraform&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=FFFFFF)
@@ -52,3 +52,10 @@ A software engineer with 2+ years of experience in full-stack development. I'm p
 
 ### Leetcode
 ![](https://leetcard.jacoblin.cool/RicardoOvO?ext=activity)
+
+<br>
+
+### My Certifications
+
+[![](https://images.credly.com/size/150x150/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://cp.certmetrics.com/amazon/en/public/verify/credential/a6a86f5cc8324c46837d3851edeb9b81)
+[![](https://images.credly.com/size/150x150/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://cp.certmetrics.com/amazon/en/public/verify/credential/1ac14f1a14c645b284c4eed82a42e9cc)
