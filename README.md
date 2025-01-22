@@ -1,5 +1,7 @@
-## Hi👋
-I'm Shixun. A software engineer with 2+ years of experience, specializing in full-stack development, particularly with JS/TS, Java and Python. Possesses extensive knowledge of AI/ML and proficiency in cloud deployments on AWS and Azure using CI/CD tools.
+## 👋 Hi there, I'm Shixun
+A software engineer with 2+ years of experience in full-stack development. I'm passionate about AI/ML, cloud technologies, and building scalable, impactful solutions.
+
+<br>
 
 ### My Tech Stack
 #### 🌍 Front-End
@@ -45,6 +47,8 @@ I'm Shixun. A software engineer with 2+ years of experience, specializing in ful
 ![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=Terraform&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=FFFFFF)
+
+<br>
 
 ### Leetcode
 ![](https://leetcard.jacoblin.cool/RicardoOvO?ext=activity)
